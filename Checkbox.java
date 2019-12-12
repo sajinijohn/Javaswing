@@ -1,7 +1,6 @@
 package temp;
 import java.awt.event.*;
 import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JCheckBox;
 import javax.swing.JTextField;
